@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else kullanımı 2\if else kullanımı 2\bin\Debug\if else kullanımı 2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else kullanımı 2\if else kullanımı 2\bin\Debug\if else kullanımı 2.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else kullanımı 2\if else kullanımı 2\bin\Debug\if else kullanımı 2.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else kullanımı 2\if else kullanımı 2\obj\Debug\if else kullanımı 2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else kullanımı 2\if else kullanımı 2\obj\Debug\if else kullanımı 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else kullanımı 2\if else kullanımı 2\obj\Debug\if_else_kullanımı_2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else kullanımı 2\if else kullanımı 2\obj\Debug\if_else_kullanımı_2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else kullanımı 2\if else kullanımı 2\obj\Debug\if else kullanımı 2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else kullanımı 2\if else kullanımı 2\obj\Debug\if else kullanımı 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else kullanımı 2\if else kullanımı 2\obj\Debug\if else kullanımı 2.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else kullanımı 2\if else kullanımı 2\obj\Debug\if else kullanımı 2.pdb
